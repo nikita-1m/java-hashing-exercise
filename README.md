@@ -1,2 +1,2 @@
 # java hashing exercise
- Testing various probing techniques for searching hash tables using Java.
+ Testing various open addressing techniques for searching hash tables using Java.
